@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
 public:
     bool canCross(std::vector<int>& stones) {
         int N = stones.size();
